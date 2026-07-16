@@ -34,7 +34,7 @@ During this internship, I worked on real-world data analytics tasks using indust
 - Pandas
 - Excel
 
-🔗 **Repository:** *(Paste your Task 1 GitHub Repository Link Here)*
+🔗 **Repository:** *(https://github.com/Prakhar2404/ApexPlanet-Task1)*
 
 ---
 
@@ -56,7 +56,7 @@ During this internship, I worked on real-world data analytics tasks using indust
 - Matplotlib
 - Pandas
 
-🔗 **Repository:** *(Paste your Task 2 GitHub Repository Link Here)*
+🔗 **Repository:** *(https://github.com/Prakhar2404/ApexPlanet-Task2)*
 
 ---
 
@@ -96,7 +96,7 @@ During this internship, I worked on real-world data analytics tasks using indust
 - Pandas
 - PowerPoint
 
-🔗 **Repository:** *(Paste your Task 4 GitHub Repository Link Here)*
+🔗 **Repository:** *(https://github.com/Prakhar2404/ApexPlanet-Task4)*
 
 ---
 
@@ -159,9 +159,9 @@ I look forward to applying these skills to future opportunities and continuing m
 
 **Name:** Prakhar Jaiswal
 
-**LinkedIn:** *(Paste your LinkedIn Profile URL Here)*
+**LinkedIn:** *(www.linkedin.com/in/prakhar-jaiswal-192702315)*
 
-**GitHub:** *(Paste your GitHub Profile URL Here)*
+**GitHub:** *(https://github.com/Prakhar2404/PrakharJaiswal-DataAnalyst-Internship-Portfolio)*
 
 ---
 
