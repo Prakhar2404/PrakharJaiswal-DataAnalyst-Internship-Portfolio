@@ -161,7 +161,7 @@ I look forward to applying these skills to future opportunities and continuing m
 
 **LinkedIn:** *(www.linkedin.com/in/prakhar-jaiswal-192702315)*
 
-**GitHub:** *(https://github.com/Prakhar2404/PrakharJaiswal-DataAnalyst-Internship-Portfolio)*
+**GitHub:** *(https://github.com/Prakhar2404)*
 
 ---
 
