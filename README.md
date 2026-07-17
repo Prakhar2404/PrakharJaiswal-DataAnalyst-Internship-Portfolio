@@ -75,7 +75,7 @@ During this internship, I worked on real-world data analytics tasks using indust
 - Power BI
 - Excel
 
-🔗 **Repository:** *(Paste your Task 3 GitHub Repository Link Here)*
+🔗 **Repository:** *(https://github.com/Prakhar2404/ApexPlanet-Task3)*
 
 ---
 
